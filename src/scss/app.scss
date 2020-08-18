@@ -1,0 +1,16 @@
+@import "~bootstrap/scss/bootstrap";
+
+.wrapper {
+    padding: 0 !important;
+    height: 100vh;
+    max-width: 50rem;
+
+    img {
+        width: 100%;
+    }
+    .inner-container {
+        .hamburger {
+            font-size: 2rem !important;
+        }
+    }
+}
